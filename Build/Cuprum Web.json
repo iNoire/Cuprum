@@ -1,0 +1,13 @@
+{
+"companyName": "Cuprum",
+"productName": "Cuprum",
+"dataUrl": "Cuprum Web.data.unityweb",
+"asmCodeUrl": "Cuprum Web.asm.code.unityweb",
+"asmMemoryUrl": "Cuprum Web.asm.memory.unityweb",
+"asmFrameworkUrl": "Cuprum Web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
